@@ -1,0 +1,15 @@
+<!DOCTYPE html> 
+<html> 
+<body style="background-color:blue;"> 
+<head> 
+<title>MicroBOT Search Beta</title> 
+<script defer src="JS/Main.js"></script> 
+</head> 
+<center><img src="MicroBOT Search.png" alt="Trulli" width="400" height="200"></center> <center>
+<p>Search On MicroBOT!</p></center>
+<center><input id="search-input" class="search-input" type="text" placeholder="Search..." width="200" height="500"> </center>\
+<center><a href="ys/ys.html"><button>Youtube Search</button style="background-color:red;"></a></center>
+<center><a href="USS.html"><button>USS</button style="background-color:red;"></a></center>
+<center><a href="Image.html"><button>Image Search</button></a></center>
+</body> 
+</html>
